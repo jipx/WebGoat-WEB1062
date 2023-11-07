@@ -1,3 +1,6 @@
+#WebGoat Notes:
+https://drive.google.com/file/d/1iTWgU7fne7Y6NG-dVdE-u-ptvG-iYcwb/view?usp=drive_link
+
 #coursera Course: https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications/lecture/cCINj/sql-injection-attacks-evaluation-of-code
 
 # WebGoat 8: A deliberately insecure Web Application
